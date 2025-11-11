@@ -38,3 +38,32 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 # Project Airbnb
 in the example given, high-fidelity wireframes have been used. This is because all the pages in the app have been well defines inluding the exact components to be used. The design is very detailed and can be used as the final design of the airbnb app
+
+# Popular Wireframing Tools
+
+1. Figma
+(Highly recommended)
+Figma is a browser-based design and prototyping tool that has become the industry standard for UI/UX designers. It’s perfect for wireframing because of its intuitive interface, real-time collaboration, and powerful design features.
+
+Key Features:
+
+- Real-time collaboration: Multiple users can work on the same design simultaneously, making it ideal for remote teams.
+- Components and reusable styles: Designers can build consistent layouts using reusable elements like buttons, icons, and grids.
+- Prototyping tools: You can quickly turn static wireframes into interactive prototypes without switching software.
+- Plugins and templates: Figma’s vast community provides ready-to-use wireframe kits, icons, and automation tools.
+- Cross-platform access: Since it’s web-based, there’s no need for installation—just log in and start designing anywhere.
+
+Why it’s useful for wireframing:
+Figma simplifies the early stages of design by allowing quick sketching of layouts and user flows with built-in components and vector tools. Its collaborative nature ensures that designers, developers, and stakeholders can comment and iterate instantly. You can start low-fidelity wireframes and seamlessly evolve them into high-fidelity designs and prototypes in the same workspace—no exporting or tool-switching required.
+
+2. Adobe XD
+A strong alternative with robust prototyping capabilities and integration with other Adobe tools. It’s great for teams already in the Adobe ecosystem.
+
+3. Sketch
+A macOS-only design tool that’s long been popular for UI and wireframing. It’s fast and plugin-rich but lacks Figma’s real-time collaboration.
+
+4. Balsamiq
+Designed for quick, low-fidelity wireframes that look hand-drawn, helping teams focus on structure rather than visual design. Ideal for early brainstorming.
+
+5. InVision Freehand
+A collaborative whiteboard tool for sketching wireframes, brainstorming, and collecting feedback. Often used alongside other design tools.
