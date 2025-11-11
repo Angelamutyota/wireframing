@@ -35,3 +35,6 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 # Types of Wireframes
 - Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 - High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+# Project Airbnb
+in the example given, high-fidelity wireframes have been used. This is because all the pages in the app have been well defines inluding the exact components to be used. The design is very detailed and can be used as the final design of the airbnb app
