@@ -98,3 +98,30 @@ For example if a team is developing the airbnb booking system:
 - The QA team later references the same wireframes to verify layout consistency and user flows during testing.
 
 This shared visual reference ensures everyone, from idea to implementation, is aligned.
+
+# Wireframing in Practice
+
+A software development team was tasked with building an online learning platform that allowed students to browse courses, enroll, and track progress. Before any development began, the UX designer created low-fidelity wireframes in Figma to map out the user journey—from discovering a course to completing lessons.
+
+During a collaborative review session, the team noticed a critical usability issue:
+- The enrollment process was too fragmented.
+- Users had to navigate through three separate pages (course details → login → payment) before confirming enrollment.
+- Test users who interacted with the wireframes found this flow confusing and cumbersome, expressing frustration about having to backtrack multiple times.
+This issue could have gone unnoticed until late in development, leading to wasted engineering time and poor user adoption.
+
+How the Issue Was Resolved
+Instead of moving forward with the flawed design, the team used the wireframes to experiment with alternative flows directly in Figma. They introduced:
+- A single-step modal enrollment process, where users could log in or pay without leaving the course page.
+- A progress indicator within the modal to reassure users of their position in the process.
+- Inline validation for form inputs, reducing friction during sign-up.
+These adjustments were tested again using interactive wireframes, and users immediately reported a smoother and more intuitive experience.
+
+Impact on the Final Product
+Because the usability problem was caught early at the wireframe stage:
+- Development time was reduced — no need for costly redesigns after implementation.
+- User engagement increased, as analytics later showed a 25% higher course enrollment rate compared to initial projections.
+- The final product delivered a seamless experience, with fewer support requests related to sign-up or payment confusion.
+
+Conclusion
+
+Wireframing played a pivotal role in identifying and solving usability issues before any code was written. By providing a visual and interactive preview of user flows, wireframes allowed the team to detect friction points, gather feedback, and refine the experience early. In essence, wireframing serves as a low-cost, high-impact safeguard, ensuring that the final product is not only functional but also intuitive, efficient, and user-friendly.
